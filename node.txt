@@ -1,1 +1,4 @@
 change
+how to rollback 
+add formatting plugin in vs code
+add accordian in home.html
